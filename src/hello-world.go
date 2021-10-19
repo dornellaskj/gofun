@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var a = 5
+	a := 5
 	var dog = "stupid"
 	var poop = "because they stink."
 	var b = 7
